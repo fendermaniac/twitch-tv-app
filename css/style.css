@@ -1,0 +1,21 @@
+body {
+  padding: 5%;
+  background-color: steelblue;
+  color: black;
+  font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+  font-family: 'VT323', monospace;
+}
+
+#thumb{
+  float: right;
+}
+
+.list-group-item{
+  background-color: lightgreen;
+}
+
+
+
